@@ -7,3 +7,9 @@ __pycache__/
 Staff_Photos/
 *.xlsx
 
+# Ignore staff photos (academic privacy)
+Staff_Photos_V2/
+datasets/Staff_Photos_V2/
+*.jpg
+*.jpeg
+*.png
